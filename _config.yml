@@ -1,16 +1,16 @@
 # ========== Profile ========== #
 # avatar
-avatar: /avatar/Misaka.jpg
+avatar: /avatar/AC.jpg
 # author name
-author: fi3ework
+author: CFSection9
 # signature
-signature: witness me
+signature: Learning soft skills
 # SNS (you can custom the order)
 social:
-  email: 12345@qq.com
-  github: //github.com/fi3ework
+  email: wangdq1990@gmail.com
+  github: //github.com/CFSection9
   # wechat and qq should be a path of qr-code image
-  wechat: /assets/example_qr.png
+  wechat: # /assets/example_qr.png
   qq: 
   telegram: 
   weibo: 
@@ -29,24 +29,24 @@ social:
   others: 
   rss: 
 # friends
-friends:
-  friendA: //www.baidu.com
-  friendB: //www.google.com
-  friendC: 
+#friends:
+#  friendA: //www.baidu.com
+#  friendB: //www.google.com
+#  friendC: 
 about:
   enable: true
   image: '/intro/about-bg.jpg'
 
 # ========== Site ========== #
 # title of the site (good for SEO)
-SEO_title: fi3ework's Studio
+  SEO_title: CFSection9's Studio
 # keywords for site (good for SEO)
 SEO_keywords:
   - hexo
   - 'hexo-theme'
   - 'hexo-blog'
 # main title shown in header image
-main_title: fi3ework's Studio.
+main_title: CFSection9's Studio.
 # subtitle
 subtitle: it's better to burn out than to fade away
 # site haeder image
